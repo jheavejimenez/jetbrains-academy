@@ -1,2 +1,2 @@
 # jetbrains-academy
-% exam
+# exam
